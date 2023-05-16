@@ -1,0 +1,23 @@
+[
+	{
+		"id": 0,
+		"name": "Budget Petrol Chippendale",
+		"address": "Chippendale NSW, Australia",
+		"phone": "+61 2 9699 1583",
+		"status": "open"
+	},
+	{
+		"id": 1,
+		"name": "Kina Petroleum Ltd.",
+		"address": "111 Harrington St, Sydney NSW 2000, Australia",
+		"phone": "+61 2 9977 0084",
+		"status": "open"
+	},
+	{
+		"id": 2,
+		"name": "Shell Coles Express Ultimo",
+		"address": "387-427 Kelly St, Ultimo NSW 2007, Australia",
+		"phone": "+61 2 9883 0756",
+		"status": "closed"
+	}
+]
